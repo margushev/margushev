@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @margushev
+- 👋 Hi, I’m Margushev
 - 👀 I’m interested in ... DevOps stuff
-- 🌱 I’m currently learning ... OpenShift
+- 🌱 I’m currently learning ... AWS, Terraform and K8s
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
