@@ -19,7 +19,7 @@ select fav in "${account[@]}"; do
 	    break
             ;;
 	"VWFS")
-	    AWS_PROFILE=vwfs
+	    export AWS_PROFILE=vwfs
 	    KUBE_CONFIG_PATH="~/.kube/config"
 	    saml2aws login --force
             break
